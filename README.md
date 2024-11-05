@@ -43,7 +43,7 @@ x=x+5;
 } 
 } 
 
-#To  Generate  Triangle  Wave
+# To  Generate  Triangle  Wave
 
  ioport int port4; 
 main() 
